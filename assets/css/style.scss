@@ -20,6 +20,10 @@ a { color: $green-deep; }
 a:hover, a:focus { color: $green-deeper; }
 strong { color: $green-deeper; }
 
+header img + p {
+  margin-top: 28px;
+}
+
 img.profile {
   width: 200px;
   height: 200px;
