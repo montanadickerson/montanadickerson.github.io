@@ -1,1 +1,54 @@
-assets/css/style.scss
+---
+---
+$green:        #6b8063;
+$green-deep:   #4c6043;
+$green-deeper: #38492f;
+$ink:          #3f4a39;
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: $ink;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $green-deeper;
+}
+
+a { color: $green-deep; }
+a:hover, a:focus { color: $green-deeper; }
+strong { color: $green-deeper; }
+
+img.profile {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 0 18px;
+}
+
+.nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 4px 0 28px;
+}
+
+.nav-buttons .btn {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 1px solid $green;
+  border-radius: 999px;
+  color: $green-deep;
+  font-size: 14px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.nav-buttons .btn:hover,
+.nav-buttons .btn:focus {
+  background: $green;
+  color: #fff;
+}
