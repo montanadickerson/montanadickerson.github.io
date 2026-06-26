@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Montana R. Dickerson
 description: "Urban Studies & Global Affairs<br>Yale College"
 logo: /assets/img/profile.png
+header img + p {
+  margin-top: 28px;
+}
