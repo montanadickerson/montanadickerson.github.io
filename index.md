@@ -5,10 +5,14 @@
   <a class="btn" href="/writing/">CV</a>
 </div>
 
-Hi! I'm an undergraduate at Yale University pursuing a dual degree in Global Affairs and Urban Studies. My past coursework spans architecture, data science, and U.S. law, including graduate-level classes at the Yale School of the Environment, School of Architecture, and Jackson School of Global Affairs.
+Hello! My name is Montana Dickerson, and I'm an undergraduate at Yale University pursuing a dual degree in Global Affairs and Urban Studies. These programs have let me take classes across a wide range of disciplines, including data science, architecture, and national security. Above all, I'm interested in how the tools of government and public policy can improve the built environment — with a particular focus on affordable housing.
 
-I've worked across the public, private, and non-profit sectors, but my passion lies in using policy to expand transportation and housing access. I'm proficient in Python, RStudio, ArcGIS, and Excel — and, above all, experienced at turning findings into clear reports, memos, and visuals.
+I have substantial research experience in urban economic development. 
 
-At the Yale Tobin Center for Economic Policy, I work with Professors Winnie van Dijk and Ingrid Gould Ellen on how federal housing programs created spatial inequality across American cities. I build and clean datasets from fragmented archival sources and map displacement patterns using GIS.
+At the Yale Tobin Center for Economic Policy, I work with Professors Ingrid Gould Ellen and Winnie van Dijk on the long-term social and economic impacts of federal urban renewal programs on American cities. I've also worked as a research assistant at the Hong Kong University of Science and Technology, on a project for the Kowloon Motorbus Company (KMB), quantifying diesel bus energy use across variables like topography, passenger load, and traffic patterns to design an optimal fleet electrification strategy. Most recently, I joined the NYC Office of Management and Budget as a Housing, Transportation, and Mobility Intern.
 
-Most recently, I joined the New York City Mayor's Office of Management and Budget as a Housing, Transportation, and Mobility Intern, evaluating the cost-effectiveness of city services and budget proposals. I'm excited to learn how America's largest municipal budget works from the inside.
+I also have experience supporting policy operations in fast-paced legislative environments. 
+
+During my internship in Speaker Emerita Nancy Pelosi's office, I supported the Policy and Press teams with administrative and research work — coordinating meeting schedules, tracking legislative timelines, and managing constituent communications across concurrent priorities. During the 2024 election cycle, I worked with the Outreach and Engagement team at the Office of the Connecticut Secretary of the State, collaborating with Registrars of Voters across all 169 towns to expand voter registration in local correctional facilities.
+
+<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/17883d11-4b3a-48a1-899d-b13890ea0647" />
