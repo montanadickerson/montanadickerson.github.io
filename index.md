@@ -1,4 +1,3 @@
-
 <div class="nav-buttons">
   <a class="btn" href="/">Home</a>
   <a class="btn" href="/projects/">Projects</a>
@@ -14,5 +13,3 @@ At the Yale Tobin Center for Economic Policy, I work with Professors Ingrid Goul
 I also have experience supporting policy operations in fast-paced legislative environments. 
 
 During my internship in Speaker Emerita Nancy Pelosi's office, I supported the Policy and Press teams with administrative and research work — coordinating meeting schedules, tracking legislative timelines, and managing constituent communications across concurrent priorities. During the 2024 election cycle, I worked with the Outreach and Engagement team at the Office of the Connecticut Secretary of the State, collaborating with Registrars of Voters across all 169 towns to expand voter registration in local correctional facilities.
-
-<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/17883d11-4b3a-48a1-899d-b13890ea0647" />
