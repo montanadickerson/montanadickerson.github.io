@@ -1,10 +1,10 @@
 ---
 layout: default
 title: CV
-permalink: /CV/
+permalink: /cv/
 ---
 
-# CV
+# Projects
 
 Your content goes here.
 
