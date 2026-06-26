@@ -1,5 +1,9 @@
 
-
+<div class="nav-buttons">
+  <a class="btn" href="/">Home</a>
+  <a class="btn" href="/projects/">Projects</a>
+  <a class="btn" href="/writing/">CV</a>
+</div>
 
 Hi! I'm an undergraduate at Yale University pursuing a dual degree in Global Affairs and Urban Studies. My past coursework spans architecture, data science, and U.S. law, including graduate-level classes at the Yale School of the Environment, School of Architecture, and Jackson School of Global Affairs.
 
