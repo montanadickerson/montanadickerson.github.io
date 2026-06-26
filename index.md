@@ -1,4 +1,3 @@
-<img class="profile" src="assets/img/profile.jpg">
 Hi! I'm an undergraduate at Yale University pursuing a dual degree in Global Affairs and Urban Studies. My past coursework spans architecture, data science, and U.S. law, including graduate-level classes at the Yale School of the Environment, School of Architecture, and Jackson School of Global Affairs.
 
 I've worked across the public, private, and non-profit sectors, but my passion lies in using policy to expand transportation and housing access. I'm proficient in Python, RStudio, ArcGIS, and Excel — and, above all, experienced at turning findings into clear reports, memos, and visuals.
